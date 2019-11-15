@@ -4,8 +4,9 @@ INPUT notes.tex
 OUTPUT notes.log
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size12.clo
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
@@ -346,6 +347,23 @@ INPUT notes.bbl
 INPUT notes.bbl
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmtt12.tfm
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
@@ -357,35 +375,21 @@ INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tf
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msam5.tfm
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 INPUT figures\lorenz_system.png
 INPUT .\figures\lorenz_system.png
 INPUT .\figures\lorenz_system.png
 INPUT .\figures\lorenz_system.png
 INPUT .\figures\lorenz_system.png
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
 INPUT C:\Users\TC\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti12.tfm
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
 INPUT figures\strange_attractors.png
 INPUT .\figures\strange_attractors.png
 INPUT .\figures\strange_attractors.png
@@ -396,34 +400,85 @@ INPUT .\figures\rossler_reconstruction.png
 INPUT .\figures\rossler_reconstruction.png
 INPUT .\figures\rossler_reconstruction.png
 INPUT .\figures\rossler_reconstruction.png
+INPUT figures\klein_bottle.png
+INPUT .\figures\klein_bottle.png
+INPUT .\figures\klein_bottle.png
+INPUT .\figures\klein_bottle.png
+INPUT .\figures\klein_bottle.png
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\omscmr.fd
+INPUT figures\granger_reconstruction.png
+INPUT .\figures\granger_reconstruction.png
+INPUT .\figures\granger_reconstruction.png
+INPUT .\figures\granger_reconstruction.png
+INPUT .\figures\granger_reconstruction.png
+INPUT figures\mirage_correlations.png
+INPUT .\figures\mirage_correlations.png
+INPUT .\figures\mirage_correlations.png
+INPUT .\figures\mirage_correlations.png
+INPUT .\figures\mirage_correlations.png
+INPUT figures\convergent_cross_mapping.png
+INPUT .\figures\convergent_cross_mapping.png
+INPUT .\figures\convergent_cross_mapping.png
+INPUT .\figures\convergent_cross_mapping.png
+INPUT .\figures\convergent_cross_mapping.png
+INPUT figures\convergence.png
+INPUT .\figures\convergence.png
+INPUT .\figures\convergence.png
+INPUT .\figures\convergence.png
+INPUT .\figures\convergence.png
+INPUT figures\sardines_vs_anchovies.png
+INPUT .\figures\sardines_vs_anchovies.png
+INPUT .\figures\sardines_vs_anchovies.png
+INPUT .\figures\sardines_vs_anchovies.png
+INPUT .\figures\sardines_vs_anchovies.png
+INPUT figures\topological_causality.png
+INPUT .\figures\topological_causality.png
+INPUT .\figures\topological_causality.png
+INPUT .\figures\topological_causality.png
+INPUT .\figures\topological_causality.png
+INPUT figures\dimensional_causality.png
+INPUT .\figures\dimensional_causality.png
+INPUT .\figures\dimensional_causality.png
+INPUT .\figures\dimensional_causality.png
+INPUT .\figures\dimensional_causality.png
+INPUT figures\inter-hemispherical_interactions.png
+INPUT .\figures\inter-hemispherical_interactions.png
+INPUT .\figures\inter-hemispherical_interactions.png
+INPUT .\figures\inter-hemispherical_interactions.png
+INPUT .\figures\inter-hemispherical_interactions.png
 INPUT notes.aux
 INPUT .\notes.out
 INPUT .\notes.out
 INPUT notes.run.xml
 OUTPUT notes.run.xml
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti12.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt12.pfb
+INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmtt12.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msbm10.pfb
 INPUT C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\symbols\msbm10.pfb

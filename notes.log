@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.18)  14 NOV 2019 02:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.18)  15 NOV 2019 01:36
 entering extended mode
 **./notes.tex
 (notes.tex
 LaTeX2e <2018-12-01>
 ("C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-("C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
-File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+("C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -1285,20 +1285,20 @@ File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
  (notes.aux)
 \openout1 = `notes.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1319,12 +1319,12 @@ LaTeX Font Info:    ... okay on input line 74.
 * \topmargin=-55.06749pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -1335,7 +1335,7 @@ LaTeX Font Info:    ... okay on input line 74.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box65
-Package hyperref Info: Link coloring ON on input line 74.
+Package hyperref Info: Link coloring ON on input line 75.
 ("C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -1345,9 +1345,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count439
 )
-LaTeX Info: Redefining \ref on input line 74.
-LaTeX Info: Redefining \pageref on input line 74.
-LaTeX Info: Redefining \nameref on input line 74.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
  (notes.out) (notes.out)
 \@outlinefile=\write5
 \openout5 = `notes.out'.
@@ -1400,88 +1400,203 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'notes.bbl' found.
  (notes.bbl)
-Package biblatex Info: Reference section=0 on input line 74.
-Package biblatex Info: Reference segment=0 on input line 74.
+Package biblatex Info: Reference section=0 on input line 75.
+Package biblatex Info: Reference segment=0 on input line 75.
  ABD: EveryShipout initializing macros
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.16} into 
 your preamble.
- on input line 74.
+ on input line 75.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 75.
+LaTeX Font Info:    Try loading font information for U+msa on input line 76.
 ("C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 75.
+LaTeX Font Info:    Try loading font information for U+msb on input line 76.
 
 ("C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<figures/lorenz_system.png, id=48, 853.1875pt x 434.62375pt>
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+<figures/lorenz_system.png, id=53, 853.1875pt x 434.62375pt>
 File: figures/lorenz_system.png Graphic file (type png)
 <use figures/lorenz_system.png>
-Package pdftex.def Info: figures/lorenz_system.png  used on input line 93.
+Package pdftex.def Info: figures/lorenz_system.png  used on input line 96.
 (pdftex.def)             Requested size: 298.6201pt x 152.12059pt.
-
 [1
 
-{C:/Users/TC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./figures/lore
-nz_system.png>]
-<figures/strange_attractors.png, id=75, 647.41875pt x 460.72125pt>
+{C:/Users/TC/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <./figures/
+lorenz_system.png>]
+<figures/strange_attractors.png, id=94, 647.41875pt x 460.72125pt>
 File: figures/strange_attractors.png Graphic file (type png)
 <use figures/strange_attractors.png>
-Package pdftex.def Info: figures/strange_attractors.png  used on input line 125
+Package pdftex.def Info: figures/strange_attractors.png  used on input line 128
 .
 (pdftex.def)             Requested size: 388.45424pt x 276.43488pt.
- [2 <./figures/strange_attractors.png>]
-<figures/rossler_reconstruction.png, id=97, 1586.92876pt x 579.66562pt>
+ [3 <./figures/strange_attractors.png>]
+<figures/rossler_reconstruction.png, id=108, 1586.92876pt x 579.66562pt>
 File: figures/rossler_reconstruction.png Graphic file (type png)
 <use figures/rossler_reconstruction.png>
 Package pdftex.def Info: figures/rossler_reconstruction.png  used on input line
- 144.
+ 148.
 (pdftex.def)             Requested size: 396.73122pt x 144.91605pt.
- [3 <./figures/rossler_reconstruction.png>] [4
+<figures/klein_bottle.png, id=114, 1204.5pt x 1957.3125pt>
+File: figures/klein_bottle.png Graphic file (type png)
+<use figures/klein_bottle.png>
+Package pdftex.def Info: figures/klein_bottle.png  used on input line 163.
+(pdftex.def)             Requested size: 120.45705pt x 195.7427pt.
+ [4 <./figures/rossler_reconstruction.png> <./figures/klein_bottle.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 170.
 
-] [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
+
+("C:\Users\TC\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 170.
+
+notes.tex:193: Extra }, or forgotten $
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+[5]
+<figures/granger_reconstruction.png, id=137, 1654.68187pt x 545.03625pt>
+File: figures/granger_reconstruction.png Graphic file (type png)
+<use figures/granger_reconstruction.png>
+Package pdftex.def Info: figures/granger_reconstruction.png  used on input line
+ 224.
+(pdftex.def)             Requested size: 496.4084pt x 163.51213pt.
+ [6 <./figures/granger_reconstruction.png>]
+<figures/mirage_correlations.png, id=154, 1136.74687pt x 714.41907pt>
+File: figures/mirage_correlations.png Graphic file (type png)
+<use figures/mirage_correlations.png>
+Package pdftex.def Info: figures/mirage_correlations.png  used on input line 24
+5.
+(pdftex.def)             Requested size: 397.86737pt x 250.05042pt.
+ [7 <./figures/mirage_correlations.png>]
+<figures/convergent_cross_mapping.png, id=170, 1044.90375pt x 993.7125pt>
+File: figures/convergent_cross_mapping.png Graphic file (type png)
+<use figures/convergent_cross_mapping.png>
+Package pdftex.def Info: figures/convergent_cross_mapping.png  used on input li
+ne 256.
+(pdftex.def)             Requested size: 417.9541pt x 397.47795pt.
+ [8 <./figures/convergent_cross_mapping.png>]
+<figures/convergence.png, id=181, 782.17218pt x 705.38531pt>
+File: figures/convergence.png Graphic file (type png)
+<use figures/convergence.png>
+Package pdftex.def Info: figures/convergence.png  used on input line 278.
+(pdftex.def)             Requested size: 430.19603pt x 387.96312pt.
+<figures/sardines_vs_anchovies.png, id=186, 715.92468pt x 815.29594pt>
+File: figures/sardines_vs_anchovies.png Graphic file (type png)
+<use figures/sardines_vs_anchovies.png>
+Package pdftex.def Info: figures/sardines_vs_anchovies.png  used on input line 
+284.
+(pdftex.def)             Requested size: 429.55812pt x 489.18135pt.
+ [9 <./figures/convergence.png>] [10 <./figures/sardines_vs_anchovies.png>]
+<figures/topological_causality.png, id=207, 535.2497pt x 752.8125pt>
+File: figures/topological_causality.png Graphic file (type png)
+<use figures/topological_causality.png>
+Package pdftex.def Info: figures/topological_causality.png  used on input line 
+303.
+(pdftex.def)             Requested size: 321.15228pt x 451.69098pt.
+ [11] [12 <./figures/topological_causality.png>]
+Overfull \hbox (11.50604pt too wide) in paragraph at lines 316--318
+\OT1/cmr/m/n/12 Any in-ter-de-pen-dence be-tween $\OML/cmm/m/it/12 X$ \OT1/cmr/
+m/n/12 and $\OML/cmm/m/it/12 Y$ \OT1/cmr/m/n/12 will lead to sub-ad-di-tiv-ity 
+in the man-i-fold di-men-sions.Whenever
+ []
+
+<figures/dimensional_causality.png, id=226, 1092.33093pt x 971.12813pt>
+File: figures/dimensional_causality.png Graphic file (type png)
+<use figures/dimensional_causality.png>
+Package pdftex.def Info: figures/dimensional_causality.png  used on input line 
+342.
+(pdftex.def)             Requested size: 436.92464pt x 388.44437pt.
+[13]
+<figures/inter-hemispherical_interactions.png, id=236, 837.88031pt x 827.34094p
+t>
+File: figures/inter-hemispherical_interactions.png Graphic file (type png)
+<use figures/inter-hemispherical_interactions.png>
+Package pdftex.def Info: figures/inter-hemispherical_interactions.png  used on 
+input line 351.
+(pdftex.def)             Requested size: 418.93913pt x 413.66946pt.
+ [14 <./figures/dimensional_causality.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 357--358
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
+
+ []
+
+[15 <./figures/inter-hemispherical_interactions.png>] [16]
+Overfull \hbox (0.37234pt too wide) in paragraph at lines 367--367
+[][]\OT1/cmr/m/n/12 Ruelle, David and Floris Tak-ens (1971). ``On the na-ture o
+f tur-bu-lence''. In: \OT1/cmr/m/it/12 Les ren-con-tres physiciens-
+ []
+
+[17]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 367.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 367.
  (notes.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 171.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 171.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 367.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 367.
 Package rerunfilecheck Info: File `notes.out' has not changed.
-(rerunfilecheck)             Checksum: 68BB1F41E606FB115E5D06D0B2E4BA4B;825.
+(rerunfilecheck)             Checksum: 9B1AD7C3066E22CDB4EF17A437334735;787.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
+
 Package logreq Info: Writing requests to 'notes.run.xml'.
 \openout1 = `notes.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 171.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 367.
  ) 
 Here is how much of TeX's memory you used:
- 46679 strings out of 492946
- 1036270 string characters out of 3127598
- 1618937 words of memory out of 3000000
- 49936 multiletter control sequences out of 15000+200000
- 540547 words of font info for 56 fonts, out of 3000000 for 9000
+ 46746 strings out of 492946
+ 1038412 string characters out of 3127598
+ 1617790 words of memory out of 3000000
+ 49959 multiletter control sequences out of 15000+200000
+ 541617 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,15n,96p,1132b,1703s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,15n,96p,1132b,1709s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmbx10.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmbx12.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmmi10.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/
-fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/TC/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/TC/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/TC/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/T
-C/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:
-/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8
-.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
-/cm/cmsy10.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsy7.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/public/amsfonts/cm/cmti10.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on notes.pdf (5 pages, 614996 bytes).
+/cmbx12.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmex10.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi12.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/TC/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/TC/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/TC/AppData
+/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/T
+C/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C
+:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+8.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmsy10.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy6.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy8.pfb><C:/Users/TC/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/TC/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/TC/AppData/Loca
+l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on notes.pdf (17 pages, 3462077 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 60 named destinations out of 1000 (max. 500000)
- 108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 349 PDF objects out of 1000 (max. 8388607)
+ 94 named destinations out of 1000 (max. 500000)
+ 161 words of extra memory for PDF output out of 10000 (max. 10000000)
 

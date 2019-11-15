@@ -76,6 +76,55 @@
       \field{pages}{031021}
       \range{pages}{1}
     \endentry
+    \entry{arbach2015dynamic}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=232f0d49480ab8ce621b41bd85e87a52}{%
+           family={Arbach},
+           familyi={A\bibinitperiod},
+           given={Youssef},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=325279e9da4670c65ae553c8cac665b6}{%
+           family={Karcher},
+           familyi={K\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=bee7ca18a07c8185cb7a936c1f5c3a4c}{%
+           family={Peters},
+           familyi={P\bibinitperiod},
+           given={Kirstin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=741e751a4a2da1ef3c2b9b5066e6ed5f}{%
+           family={Nestmann},
+           familyi={N\bibinitperiod},
+           given={Uwe},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{6eccef3a864063fc868b8e7b0756c6fd}
+      \strng{fullhash}{44c79fbd920aadd93546ec97b831840b}
+      \strng{bibnamehash}{6eccef3a864063fc868b8e7b0756c6fd}
+      \strng{authorbibnamehash}{6eccef3a864063fc868b8e7b0756c6fd}
+      \strng{authornamehash}{6eccef3a864063fc868b8e7b0756c6fd}
+      \strng{authorfullhash}{44c79fbd920aadd93546ec97b831840b}
+      \field{sortinit}{A}
+      \field{sortinithash}{d77c7cdd82ff690d4c3ef13216f92f0b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Conference on Formal Techniques for Distributed Objects, Components, and Systems}
+      \field{title}{Dynamic causality in event structures}
+      \field{year}{2015}
+      \true{nocite}
+      \field{pages}{83\bibrangedash 97}
+      \range{pages}{15}
+    \endentry
     \entry{barnett2014mvgc}{article}{}
       \name{author}{2}{}{%
         {{uniquename=0,uniquepart=base,hash=558ab28ff6597a7c7661416aba0109bd}{%
@@ -934,6 +983,51 @@
       \true{nocite}
       \field{pages}{1\bibrangedash 44}
       \range{pages}{44}
+    \endentry
+    \entry{sauer1991embedology}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=57b9c7cd14116b2c7e88520b152201b8}{%
+           family={Sauer},
+           familyi={S\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=6182e68f7c9c52a8dc75c4afdde36dd6}{%
+           family={Yorke},
+           familyi={Y\bibinitperiod},
+           given={James\bibnamedelima A},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0455ee747208ca48ab6a06ab854095ec}{%
+           family={Casdagli},
+           familyi={C\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{2223ea0d8daab5254e6ea128c7bde83d}
+      \strng{fullhash}{2223ea0d8daab5254e6ea128c7bde83d}
+      \strng{bibnamehash}{2223ea0d8daab5254e6ea128c7bde83d}
+      \strng{authorbibnamehash}{2223ea0d8daab5254e6ea128c7bde83d}
+      \strng{authornamehash}{2223ea0d8daab5254e6ea128c7bde83d}
+      \strng{authorfullhash}{2223ea0d8daab5254e6ea128c7bde83d}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of statistical Physics}
+      \field{number}{3-4}
+      \field{title}{Embedology}
+      \field{volume}{65}
+      \field{year}{1991}
+      \true{nocite}
+      \field{pages}{579\bibrangedash 616}
+      \range{pages}{38}
     \endentry
     \entry{spekkens2015paradigm}{incollection}{}
       \name{author}{1}{}{%
