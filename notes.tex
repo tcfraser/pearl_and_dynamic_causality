@@ -77,7 +77,37 @@
 
 \section*{Comments}
 
-These notes can be found at \url{https://github.com/tcfraser/pearl_and_dynamic_causality}. \\
+These notes can be found at \url{https://github.com/tcfraser/pearl_and_dynamic_causality}.
+
+\section{Overview}
+
+\begin{enumerate}
+    \item Origins in early chaos theory
+    \begin{itemize}
+        \item Lorenz's system \parencite{lorenz1963deterministic}
+        \item Attractors
+        \item Reconstructing attractors \parencite{packard1980geometry}
+        \item Takens' Theorem \parencite{takens1981detecting}
+    \end{itemize}
+    \item Techniques for Dynamical causal discovery
+    \begin{itemize}
+        \item Convergent Cross-mapping (CCM) \parencite{sugihara2012detecting}
+        \item Topological Causality (TC) \parencite{harnack2017topological}
+        \item Dimensional Causality (DC) \parencite{benkHo2018exact}
+    \end{itemize}
+\end{enumerate}
+
+The \textbf{dynamical systems} which will be considered here involved a finite number $n$ of variables $\{X_1, X_2, \ldots, X_n\}$ evolving according to a system of deterministic, first-order, time-independent, oridinary differential equations (discrete or continuous in time).
+\[ \dt{X_j} = f_{j} (X_1(t), X_2(t), \ldots X_n(t)) \]
+
+The solution to a dynamical system on a manifold $M$ (for example $\mathbb R^n$) is specified by a \textbf{flow}
+\begin{equation}
+    \Phi_{(\cdot)}(\cdot) : \mathbb R \times M \to M,
+\end{equation}
+where $\Phi_t$ is a diffeomorphism of $M$ for all $t \in \mathbb R$ such that
+\begin{equation}
+    \forall V \in M : \Phi_{0} ( V ) = V, \quad \text{and} \quad \forall s,t \in \mathbb R: \Phi_t \circ \Phi_s = \Phi_{s+t}.
+\end{equation}
 
 \section{A Chaotic Origin Story}
 
@@ -103,14 +133,6 @@ Later in \speccite{ruelle1971nature}, \citeauthor{ruelle1971nature} develop a va
 \subsection{What are attractors anyway?}
 What exactly is notion of an \textit{attractor}? Intuitively, attractors generalize the more familiar notions of stability for differential equations such as \textit{stable fixed points} and \textit{limit cycles} in the sense that an attractor $A$ is a compact subset such that points starting sufficiently close to $A$ will remain in a given neighborhood of $A$. For a detailed account of the various notions and formulations of an attractor, see \speccite{milnor1985concept}. Nevertheless, the following definition will be adequate.
 
-A dynamical system on a manifold $M$ (for example $\mathbb R^n$) is specified by a \textbf{flow} (a solution to the system of ODEs)
-\begin{equation}
-    \Phi_{(\cdot)}(\cdot) : \mathbb R \times M \to M,
-\end{equation}
-where $\Phi_t$ is a diffeomorphism of $M$ for all $t \in \mathbb R$ such that
-\begin{equation}
-    \forall V \in M : \Phi_{0} ( V ) = V, \quad \text{and} \quad \forall s,t \in \mathbb R: \Phi_t \circ \Phi_s = \Phi_{s+t}.
-\end{equation}
 An \textbf{attractor} is any $A \subseteq M$ which is
 \begin{enumerate}
     \item forward invariant
